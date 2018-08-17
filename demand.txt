@@ -1,0 +1,8 @@
+# 2018-8-16 13:40:25
+get请求:
+    data：
+        product_id
+        devicename
+    config:
+        use_id
+        type=query
